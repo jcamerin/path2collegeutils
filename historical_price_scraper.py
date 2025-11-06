@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# How to use: historical_price_scraper.py --start-date 2025-01-17 --out prices.csv --clean-price --headful
+
 import argparse
 import csv
 import sys
